@@ -12,9 +12,8 @@
 
 	color: white;
 }
-#next{
-	color: black;
-}
+
+
 #res{
 	visibility: hidden; 
 }
@@ -22,13 +21,16 @@
 	
 }
 
+
 .rango{
-	color: black;
+	color: white;
 	font-size: 20px;
 	margin-top: 0px;
 	text-align: center;
 	color: white;
 }	
+
+
 
 #textInput{
 	text-align: center;
@@ -93,7 +95,7 @@
 	background-color: black;
 	height: 100%;
 	width: 100%;
-	margin-top: -20px;
+	margin-top: 20px;
 	padding-top: 10px;
 	
 
